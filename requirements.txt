@@ -1,0 +1,4 @@
+beautifulsoup4  ~= 4.4
+notebook        ~= 7.4
+polars          ~= 1.29
+requests        ~= 2.32
