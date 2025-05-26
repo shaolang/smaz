@@ -1,5 +1,5 @@
 beautifulsoup4  ~= 4.4
 notebook        ~= 7.4
-polars          ~= 1.29
+polars[pyarrow] ~= 1.29
 requests        ~= 2.32
 yfinance        ~= 0.2
