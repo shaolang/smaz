@@ -1,4 +1,5 @@
 beautifulsoup4  ~= 4.4
+matplotlib      ~= 3.10
 notebook        ~= 7.4
 polars[pyarrow] ~= 1.29
 requests        ~= 2.32
