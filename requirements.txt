@@ -1,6 +1,8 @@
 beautifulsoup4  ~= 4.4
+ipywidgets      ~= 8.1
 matplotlib      ~= 3.10
 notebook        ~= 7.4
 polars[pyarrow] ~= 1.29
 requests        ~= 2.32
+tqdm            ~= 4.67
 yfinance        ~= 0.2
